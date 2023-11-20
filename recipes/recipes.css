@@ -1,0 +1,25 @@
+* {
+    background-color: beige;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    line-height: 18px;
+}
+div {
+    border: 5px solid darkgreen;
+    margin: 5px;
+    padding:10px;
+}
+h3 {
+    text-align: center;
+    font-weight: bold;
+
+}
+.ingredients {
+    text-align: left;
+  
+}
+li {
+    font-style:italic;
+}
+.recipe-name {
+    text-align: center;
+}
