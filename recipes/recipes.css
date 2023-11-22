@@ -1,12 +1,30 @@
-* {
-    background-color: beige;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    line-height: 18px;
+body { 
+    background-color:antiquewhite;
 }
+h1 {
+    font-family: fantasy;
+    font-style: oblique;
+    text-align: center;
+    text-decoration: underline;
+}
+h2 {
+    font-family: fantasy;
+    font-style: oblique;
+    text-align: center
+}
+h3 {
+    font-family: fantasy;
+    font-style: oblique;
+    text-align: center;
+    text-decoration: underline;
+}  
+
 div {
-    border: 5px solid darkgreen;
+    border: 5px solid ivory;
     margin: 5px;
     padding:10px;
+    background-color: lightslategrey; 
+    color: ivory;
 }
 h3 {
     text-align: center;
